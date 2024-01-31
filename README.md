@@ -9,7 +9,7 @@ Eu sou o Rodrigo Augusto, sou um Programador Front End, atualmente estou aprende
 
 ### Connect with me:
 
-- <a href="www.linkedin.com/in/rodrigoaugusto-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn-logo" />
+- <a href="https://www.linkedin.com/in/rodrigoaugusto-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn-logo" />
 
 <br>[![Rodrigo Augusto stats](https://github-readme-stats.vercel.app/api?username=rodrigorobl)](https://github.com/anuraghazra/github-readme-stats)
 
